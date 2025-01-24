@@ -1,2 +1,2 @@
 This is FileB
-Lets make some changes
+Lets make some changes.
